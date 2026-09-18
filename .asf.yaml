@@ -1,0 +1,5 @@
+# Baseline "settings at rest" for this sandbox.
+# Keep this small and boring: a test run resets to it.
+github:
+  description: "Throwaway sandbox for testing .asf.yaml parser changes"
+  homepage: https://github.com/apache/infrastructure-asfyaml
